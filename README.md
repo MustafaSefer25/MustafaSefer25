@@ -3,7 +3,7 @@
 # Hi 👋, I'm Mustafa Sefer
 ## JavaScript & React & C#
 
-### Connect with me:
+
 
 
 
